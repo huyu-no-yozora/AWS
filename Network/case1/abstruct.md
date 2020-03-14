@@ -10,7 +10,7 @@
 <!--toc-->
 
 ## Outline Diagram
-![Outline Diagram](./img/APIGW_VPCLambda_and_VPCLink.png)
+![Outline Diagram](./img/APIGW_VPCLambda_and_VPCLink.svg)
 
 ## Definition of Term
 VPC Lambda
