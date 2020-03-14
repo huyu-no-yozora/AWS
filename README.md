@@ -1,6 +1,5 @@
 # AWS Technical Notes
 
-
 ## Directory Construction
 
 
